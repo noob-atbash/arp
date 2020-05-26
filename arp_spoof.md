@@ -309,3 +309,14 @@ except KeyboardInterrupt:
     restore(target_ip, gateway_ip)
 
 ```
+
+> Set your own gateway ip and target ip : 
+```python
+
+target_ip= "target_ip"
+gateway_ip = "gateway_ip"
+
+```
+
+Give a shot ! 
+
